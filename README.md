@@ -20,6 +20,8 @@ Ask 5 questions:
 - 4️⃣ Does it NOT require internet when Home Assistant instance restarts (e.g. upgrading the server)?
 - 5️⃣ Does it NOT require internet when it operates?
 
+if any functionality is unavailable without internet, please do mention that in additional info. 
+
 ## Devices
 
 ### Plugs
