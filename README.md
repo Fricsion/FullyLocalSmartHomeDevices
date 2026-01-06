@@ -14,19 +14,18 @@ Inspired by awesome-selfhosted repo.
 
 ## Qualification
 Ask 5 questions:
-- Does it NOT require internet connection when setting it up?
-- Does it NOT require internet account when setting it up or using it?
-- Does it NOT require internet when the device itself restarts either intentionally or by accident?
-- Does it NOT require internet when Home Assistant instance restarts (e.g. upgrading the server)?
-- Does it NOT require internet when it operates?
+- 1️⃣ Does it NOT require internet connection when setting it up?
+- 2️⃣ Does it NOT require internet account when setting it up or using it?
+- 3️⃣ Does it NOT require internet when the device itself restarts either intentionally or by accident?
+- 4️⃣ Does it NOT require internet when Home Assistant instance restarts (e.g. upgrading the server)?
+- 5️⃣ Does it NOT require internet when it operates?
 
 ## Devices
 
 ### Plugs
 #### Tapo 110M
 
-- No internet setup: Home Assistant Matter Integration
-- No internet turn on: It stays connected after reboot of both Home Assistant and the device itself.
-- No internet operation: Fully operational with no internet connectivity.
+- 1️⃣2️⃣: Home Assistant Matter Integration
+- 3️⃣4️⃣5️⃣: ✅️
 - Additional Info: It can do power monitoring with Matter; Do not use TP-Link Integration on Home Assistant because it will require an account. 
 
