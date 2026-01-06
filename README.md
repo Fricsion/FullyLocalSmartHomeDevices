@@ -1,0 +1,1 @@
+This repository aims to create a list of smart home devices that work locally (without internet connection/account) in any steps of the usage e.g. during setup process, when turned on and when operating. 
