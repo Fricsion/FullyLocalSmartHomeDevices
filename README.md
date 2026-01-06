@@ -2,9 +2,11 @@
 
 This repository aims to create a list of smart home devices that work locally (without internet connection/account) in any steps of the usage e.g. during setup process, when turned on and when operating. 
 
-Privacy minded people would have a dedicated VLAN for smart devices that is cut off of internet like mine. 
+There should be a dedicated VLAN for smart devices. 
 
 <img width="942" height="53" alt="Screenshot 2026-01-07 at 0 04 48" src="https://github.com/user-attachments/assets/b7590b99-afc5-47ad-8518-062a1d1fb318" />
+
+If your setup is similar to mine, maybe we can help each other build this list!
 
 Feel free to create a PR if you know such products with great support for without-internet usage. 
 
